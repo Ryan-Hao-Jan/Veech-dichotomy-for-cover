@@ -1,0 +1,45 @@
+{
+  "VeechDichotomy/CotangentGluing.lean": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeCoefficientGluing.lean",
+    "source_sha256": "d2adbfb8d9a816cd12026349bdd5fb7eedb4caa80d62991b4bdbe0c3baf32afa",
+    "adapted_sha256": "454b5c2e760581fa4e9843a5d17c855f2c14b51b46bc716fca3996788f697629",
+    "changes": "Removed compactness/T2/connectedness; generic cotangent section output; preserved and rechecked proof; omitted compact-specific coefficient helpers."
+  },
+  "VeechDichotomy/NativeVeech.lean": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeVeech.lean",
+    "source_sha256": "3cb510ad107b357d52e08b51677b582241db3aa7c9af6f3b05a05765f28e2bd9",
+    "adapted_sha256": "2b392f4e7680c39654356b4f9c0633d0e08ef3adc4188f3db755cabb35947df6",
+    "changes": "Used isolated SL2 matrix action and mathlib matrix-group topology; replaced namespace and imports, preserved actual affine derivative proofs."
+  },
+  "VeechDichotomy/HolomorphicCurveMaps.lean": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeHolomorphicSmooth.lean",
+    "source_sha256": "0c796e71eae8c5da83f36677b93ac08933dc174299fa29f7521e0477b03b334c",
+    "additional_sources": [
+      {
+        "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\ProperDegree\\DegreeOneSphere.lean",
+        "source_sha256": "46193726693a9faa903a85624079079b59d5373f10973945f5112d67d332a62e",
+        "reused_component": "contMDiffAt_omega_of_analyticAt_chartPullback only"
+      }
+    ],
+    "adapted_sha256": "ef97135159bb9e57b2ea7444be8b75368947d58f068ae4473c03211b1a54d645",
+    "changes": "Extracted the generic Cauchy smoothness proof and its small chart bridge; removed degree-one sphere imports and compact-curve-specific helpers; renamed namespace and variables; rechecked with Lean 4.35."
+  },
+  "VeechDichotomy/LoopChainMembership.lean": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\SphereTopology\\VanKampen.lean",
+    "source_sha256": "844ea5a67c5f8fa0ce3cbedcf71b5357745e2ddca8f32b3cf21d370930d7dbab",
+    "adapted_sha256": "fdbab465e2a833ae564931c481bb16003fddea15f1222856a7584164b3ef70d5",
+    "changes": "Generalized the generic spoke-telescoping proof to membership in an arbitrary actual fundamental-group subgroup; isolated imports from all sphere topology; added based-loop multiplication, shortcut, and subdivision membership lemmas and rechecked in Lean 4.35."
+  },
+  "VeechDichotomy/HolomorphicLocalInverse.lean": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativePrimitiveInverse.lean",
+    "source_sha256": "9e79d73facde6797a66676a940475391bba3a48f79d59beaa0ae6f9dbe70031e",
+    "adapted_sha256": "6cc74f3c5224d37fce1fd665d047ad4b7dc4b6ccead6ceba2c14806fd07013b2",
+    "changes": "Generalized the genuine native primitive-inverse chart calculation to arbitrary local homeomorphisms between complex curves, deriving inverse differentiability from actual forward differentiability and nonzero intrinsic derivative; isolated from form and compactness assumptions; rechecked in Lean 4.35."
+  },
+  "VeechDichotomy/HolomorphicCotangentForms.lean": {
+    "changes": "Generalized the verified cotangent pullback proof to arbitrary complex model dimensions E and F; removed compact curve assumptions; added identity and composition laws; rechecked with Lean 4.35.",
+    "adapted_sha256": "ecc645fb2cfb5fa8ee1484d009539be74ac7570472b845c9e9353909853a4ea1",
+    "source": "C:/Users/singl/Documents/Codex/2026-10-30/i/outputs/MNEC/Jacobians/Forms/HolomorphicForms.lean",
+    "source_sha256": "c8e860f10f7401c6e296c09f8198a934633b66b05afede678ab91b846efcf630"
+  }
+}

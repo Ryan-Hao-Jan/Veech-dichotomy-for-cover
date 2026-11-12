@@ -1,0 +1,11 @@
+@VeechDichotomy.PaperMainTheorem.main : ∀ {X : Type u_1} {Y : Type u_2} [inst : TopologicalSpace X] [inst_1 : T2Space X]
+  [inst_2 : CompactSpace X] [inst_3 : ConnectedSpace X] [inst_4 : ChartedSpace ℂ X]
+  [inst_5 : IsManifold (modelWithCornersSelf ℂ ℂ) ⊤ X] [inst_6 : TopologicalSpace Y] [inst_7 : T2Space Y]
+  [inst_8 : CompactSpace Y] [inst_9 : ConnectedSpace Y] [inst_10 : ChartedSpace ℂ Y]
+  [inst_11 : IsManifold (modelWithCornersSelf ℂ ℂ) ⊤ Y] (ωX : MNEC.NativeAbelianDifferential.Differential X)
+  (ωY : MNEC.NativeAbelianDifferential.Differential Y), VeechDichotomy.PaperStatement.MainClaim ωX ωY
+'VeechDichotomy.PaperMainTheorem.main' depends on axioms: [propext, Classical.choice, Quot.sound]
+'VeechDichotomy.NativeLatticePointwiseCusp.escaping_has_lower' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+MAIN_THEOREM_CHECK_PASSED: VeechDichotomy.PaperMainTheorem.main proves the exact MainClaim and literal Theorem 1.

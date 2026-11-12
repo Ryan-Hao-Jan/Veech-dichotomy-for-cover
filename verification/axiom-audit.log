@@ -1,0 +1,2 @@
+AXIOM_AUDIT_PASSED: 10629 project declarations; only standard Lean foundations.
+EXACT_MAIN_THEOREM_AUDITED: VeechDichotomy.PaperMainTheorem.main

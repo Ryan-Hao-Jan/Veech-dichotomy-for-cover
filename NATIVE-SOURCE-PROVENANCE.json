@@ -1,0 +1,1112 @@
+{
+  "MNEC.NativeRegularTranslationAtlas": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeRegularTranslationAtlas.lean",
+    "copy": "MNEC\\NativeRegularTranslationAtlas.lean",
+    "sha256": "61adbdfb33e850eb564891caff80ab2ed863d51302677bdf007b1b81b2b1bd13"
+  },
+  "MNEC.NativePrimitiveTransitions": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativePrimitiveTransitions.lean",
+    "copy": "MNEC\\NativePrimitiveTransitions.lean",
+    "sha256": "03102a647f540957611ec97250032b81f48d974d1e0bc90ed7b1189527c8b0b3"
+  },
+  "MNEC.RegularPrimitiveCharts": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\RegularPrimitiveCharts.lean",
+    "copy": "MNEC\\RegularPrimitiveCharts.lean",
+    "sha256": "4596993a278c8363b59930fa25a52cf24b3400ae6ebeaa2bedf8f5261e56ebce"
+  },
+  "MNEC.NativeAbelianDifferential": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeAbelianDifferential.lean",
+    "copy": "MNEC\\NativeAbelianDifferential.lean",
+    "sha256": "4fb68f3060bd82c58efe78320b785e2932ad77a5e0a79591fc06777990e792db"
+  },
+  "Jacobians.Forms.NativeCanonical": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Forms\\NativeCanonical.lean",
+    "copy": "Jacobians\\Forms\\NativeCanonical.lean",
+    "sha256": "20c627cbf08fc7eab32e4c625d639e27b9a0d82bb719a594b8cef3ae885c30a8"
+  },
+  "Jacobians.Forms.HolomorphicForms": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Forms\\HolomorphicForms.lean",
+    "copy": "Jacobians\\Forms\\HolomorphicForms.lean",
+    "sha256": "c8e860f10f7401c6e296c09f8198a934633b66b05afede678ab91b846efcf630"
+  },
+  "Jacobians.Forms.Montel": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Forms\\Montel.lean",
+    "copy": "Jacobians\\Forms\\Montel.lean",
+    "sha256": "a4645e7d2711ceaf4951f33484de867beba1d8b39768d94e3823a7aba29bea70"
+  },
+  "Jacobians.Forms.Complete": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Forms\\Complete.lean",
+    "copy": "Jacobians\\Forms\\Complete.lean",
+    "sha256": "19658524e3d273e8de142680dfe838bc80bc417fd6cee3f4a4e2904493355d77"
+  },
+  "Jacobians.Forms.ChartTransition": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Forms\\ChartTransition.lean",
+    "copy": "Jacobians\\Forms\\ChartTransition.lean",
+    "sha256": "ffc4cdcc8690db4f17a6bde85fbc7f414ce731618ac5d096357ba98c18373d9a"
+  },
+  "Jacobians.Forms.Compactness": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Forms\\Compactness.lean",
+    "copy": "Jacobians\\Forms\\Compactness.lean",
+    "sha256": "79848c1f8de55e93654b2eb5c5cf51420783bb70cd5dddff95057ef586f98491"
+  },
+  "Jacobians.Forms.SupNorm": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Forms\\SupNorm.lean",
+    "copy": "Jacobians\\Forms\\SupNorm.lean",
+    "sha256": "3f13159990ef7109049bddbb4fc39402d1a1f5f59231e6d06c130e363d4dd4b6"
+  },
+  "Jacobians.Forms.ChartNorm": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Forms\\ChartNorm.lean",
+    "copy": "Jacobians\\Forms\\ChartNorm.lean",
+    "sha256": "f9214484bb4a5bafdfa8b94f3827012451605d7a299505edbda2448823cbe3a1"
+  },
+  "Jacobians.Forms.Cover": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Forms\\Cover.lean",
+    "copy": "Jacobians\\Forms\\Cover.lean",
+    "sha256": "07cfcbcc7fc57ad0ad2c825e9dd65ed5e58db859b12c4e6961c9aaaee6498236"
+  },
+  "Jacobians.Forms.LocalRep": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Forms\\LocalRep.lean",
+    "copy": "Jacobians\\Forms\\LocalRep.lean",
+    "sha256": "31ccd35a7a6e6ea2fdc77ed4182f30b37f1145a41580f3798eedd7eeebf6ec3a"
+  },
+  "Jacobians.Forms.Genus": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Forms\\Genus.lean",
+    "copy": "Jacobians\\Forms\\Genus.lean",
+    "sha256": "9fe5f43d8d2376dc8b72ade07113a4df819281b862c72dc5052b44328f9564ae"
+  },
+  "MNEC.TranslationGroupoid": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\TranslationGroupoid.lean",
+    "copy": "MNEC\\TranslationGroupoid.lean",
+    "sha256": "fa83438db4752eef993794682c71ced5dc2425e1a632cae2dbf85102316c27f5"
+  },
+  "MNEC.LatticeTorus": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\LatticeTorus.lean",
+    "copy": "MNEC\\LatticeTorus.lean",
+    "sha256": "f5407b5e3d4685cc866c2910a3afee739b9615fbedfb4bef46113d328c8bb6f2"
+  },
+  "MNEC.NativeConullDirectionalOrbits": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeConullDirectionalOrbits.lean",
+    "copy": "MNEC\\NativeConullDirectionalOrbits.lean",
+    "sha256": "d780fb32fdecf5bb68d5c80635661031de455c16e47a09ecb5b4df58b4f91c2c"
+  },
+  "MNEC.NativeCriticalRays": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeCriticalRays.lean",
+    "copy": "MNEC\\NativeCriticalRays.lean",
+    "sha256": "6c47f88ca0871954f85fd1c5936e4ba1d8b32dcf1b459e2972feecb61892ad73"
+  },
+  "MNEC.NativePrimitiveLineNull": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativePrimitiveLineNull.lean",
+    "copy": "MNEC\\NativePrimitiveLineNull.lean",
+    "sha256": "edacf5e8e54e8a879a2388a6e5cb57f622781db74a931e87d7849dbd4d77e3bb"
+  },
+  "MNEC.NativeLocalPrimitives": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeLocalPrimitives.lean",
+    "copy": "MNEC\\NativeLocalPrimitives.lean",
+    "sha256": "1e17730901fd9cd67b2b7e4cf595659bcd6575f5187e4aa929b8d5760a325fe3"
+  },
+  "MNEC.NativeRegularArea": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeRegularArea.lean",
+    "copy": "MNEC\\NativeRegularArea.lean",
+    "sha256": "321bd0b757843cc421a1a73b80b3a11040065d9d990108d2d939392ed8a5438f"
+  },
+  "MNEC.NativePrimitiveAreaCharts": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativePrimitiveAreaCharts.lean",
+    "copy": "MNEC\\NativePrimitiveAreaCharts.lean",
+    "sha256": "8e99f2ebc0cdad2038ebaeb29280abafa5b5b6a07dfb1a9a7ffa680f28b3e485"
+  },
+  "MNEC.TranslationAtlasMeasure": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\TranslationAtlasMeasure.lean",
+    "copy": "MNEC\\TranslationAtlasMeasure.lean",
+    "sha256": "a45cfa4ad575acc4eed0d0b34b8a140b6336b7256aedce046e980e8dd82f8ec4"
+  },
+  "MNEC.TranslationVolume": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\TranslationVolume.lean",
+    "copy": "MNEC\\TranslationVolume.lean",
+    "sha256": "c3a30ec2de33876249021b8a2aa357777c0e46ecae4c9425c0eeda42388ca306"
+  },
+  "MNEC.LocalAreaGluing": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\LocalAreaGluing.lean",
+    "copy": "MNEC\\LocalAreaGluing.lean",
+    "sha256": "c9d1c701109c1e02cbe3217ff2df7243d8c1db42b17e592a55aa2f42356ceccd"
+  },
+  "MNEC.LocalPhysicalAreaTransport": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\LocalPhysicalAreaTransport.lean",
+    "copy": "MNEC\\LocalPhysicalAreaTransport.lean",
+    "sha256": "affff2f58278be3a77b5c27072552c30c49d9af582a345d42a5d128c11e0b28a"
+  },
+  "MNEC.RegularCoordinateArea": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\RegularCoordinateArea.lean",
+    "copy": "MNEC\\RegularCoordinateArea.lean",
+    "sha256": "f1f9489f92868f89518267c1749b6b1630abf5f531d0506886f366b0a45408bc"
+  },
+  "MNEC.RegularAtlasArea": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\RegularAtlasArea.lean",
+    "copy": "MNEC\\RegularAtlasArea.lean",
+    "sha256": "7d46893e92bda112a6754b2fa394b0eda09b7367260f7b79df7171d7cac6e7d8"
+  },
+  "MNEC.RegularAtlasCoverage": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\RegularAtlasCoverage.lean",
+    "copy": "MNEC\\RegularAtlasCoverage.lean",
+    "sha256": "75587db6f943ac3fbdd39810bc8020b22cd77461cd34ce6991cce37f99355596"
+  },
+  "MNEC.RegularPoints": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\RegularPoints.lean",
+    "copy": "MNEC\\RegularPoints.lean",
+    "sha256": "77dcc7df9be028947f054a473afc9759966f05339a2ab7a7fd42f0f7b5e80881"
+  },
+  "MNEC.SeamClasses": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\SeamClasses.lean",
+    "copy": "MNEC\\SeamClasses.lean",
+    "sha256": "d51c84bffbb105b931ceea231dac071d319c2fd02541f4c4dc4e06736dfd9901"
+  },
+  "MNEC.CutBankLifts": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\CutBankLifts.lean",
+    "copy": "MNEC\\CutBankLifts.lean",
+    "sha256": "e1e0a127e7ff0ba325904c6d8bd8a169df895b9ab577949966b87161a23f6b7f"
+  },
+  "MNEC.SlitCollars": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\SlitCollars.lean",
+    "copy": "MNEC\\SlitCollars.lean",
+    "sha256": "a950efc50102b8f5d9f1083b5b265b7e341868177e48af2b819b064c6279c4d3"
+  },
+  "MNEC.OffSlitEmbeddings": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\OffSlitEmbeddings.lean",
+    "copy": "MNEC\\OffSlitEmbeddings.lean",
+    "sha256": "1d82dc97aa1b54ea19d3b39ef940e5fa6fb5e3a5722a9b9c6de648aa941138f3"
+  },
+  "MNEC.SlitConnectedSum": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\SlitConnectedSum.lean",
+    "copy": "MNEC\\SlitConnectedSum.lean",
+    "sha256": "fb04094dd6448c285d84bfd6ffb1d823576114e2cb1ea50f697eb303abf9ceb6"
+  },
+  "MNEC.CutTorus": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\CutTorus.lean",
+    "copy": "MNEC\\CutTorus.lean",
+    "sha256": "4efd12dc6255a876614a3ecddf449568b43171fea55428c3986c87cd6353176c"
+  },
+  "MNEC.OffSlitCharts": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\OffSlitCharts.lean",
+    "copy": "MNEC\\OffSlitCharts.lean",
+    "sha256": "8050d83dae30ccf59dd23aab170c38281903b68c2ee73590b1d419dff8da2739"
+  },
+  "MNEC.LatticeTorusMeasure": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\LatticeTorusMeasure.lean",
+    "copy": "MNEC\\LatticeTorusMeasure.lean",
+    "sha256": "37240a4af6f796ea0f08d00ca97f3df46a880af58d4be1eb938e8df649687015"
+  },
+  "MNEC.SeamCharts": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\SeamCharts.lean",
+    "copy": "MNEC\\SeamCharts.lean",
+    "sha256": "a99708fbd8054f1604a86384fde653dfc19ce61980a3325c685f57f058a7def8"
+  },
+  "MNEC.SeamChartAxis": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\SeamChartAxis.lean",
+    "copy": "MNEC\\SeamChartAxis.lean",
+    "sha256": "292ce2d7cba93d4c9f2c343f6c4df1610d9f027b422b45938a7d49e9f98502d8"
+  },
+  "MNEC.SeamChartRange": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\SeamChartRange.lean",
+    "copy": "MNEC\\SeamChartRange.lean",
+    "sha256": "7a173990e6815f810da167394ef1b587fdfbcda6348a1ed2e4aa346244587cbf"
+  },
+  "MNEC.HalfCollarRanges": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\HalfCollarRanges.lean",
+    "copy": "MNEC\\HalfCollarRanges.lean",
+    "sha256": "dfa6b5e4b91dbf4d3d99de65e279b0c82dc44d97c6b3f3d5dce2fa63d4d8023d"
+  },
+  "MNEC.SeamOpenSets": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\SeamOpenSets.lean",
+    "copy": "MNEC\\SeamOpenSets.lean",
+    "sha256": "a44e6b57701cd97db2afaa11c9e41344602573c9f1165999d3daaed00bc5e410"
+  },
+  "MNEC.SeamChartMaps": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\SeamChartMaps.lean",
+    "copy": "MNEC\\SeamChartMaps.lean",
+    "sha256": "ae38836e8dedc97fed24e20f4b7bd5cd3a48cb8af4a213ee3bb627ba7f57ecf6"
+  },
+  "MNEC.CollarRefinements": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\CollarRefinements.lean",
+    "copy": "MNEC\\CollarRefinements.lean",
+    "sha256": "c44ac2a34cbc6f56929cbc14b5e937066325ba628ec1afd8ef5cae1767923b9d"
+  },
+  "MNEC.SeamChartOffAxis": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\SeamChartOffAxis.lean",
+    "copy": "MNEC\\SeamChartOffAxis.lean",
+    "sha256": "a35411aabc6114dc2f6c18715400c13f1878805f7be01577c14c5804a188b335"
+  },
+  "MNEC.OffSlitChartArea": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\OffSlitChartArea.lean",
+    "copy": "MNEC\\OffSlitChartArea.lean",
+    "sha256": "ebe746fca8c93451f07970ed65b0e1dcbb11fe374acccaebbc168241dd75e29f"
+  },
+  "MNEC.ConnectedSumArea": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\ConnectedSumArea.lean",
+    "copy": "MNEC\\ConnectedSumArea.lean",
+    "sha256": "96871c50c66e9f1cd2f2dadc968362fb1e69d953e55d901ba561cdbb8d9747ed"
+  },
+  "MNEC.SeamChartArea": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\SeamChartArea.lean",
+    "copy": "MNEC\\SeamChartArea.lean",
+    "sha256": "e8178dfd1ebe6dc0f0fb23ba34b787aa363effb02b4ecfbcf5ea66a684158165"
+  },
+  "MNEC.SeamChartCoordinates": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\SeamChartCoordinates.lean",
+    "copy": "MNEC\\SeamChartCoordinates.lean",
+    "sha256": "1b47b8c88ffe9069bd17afcec8d502cf52f347e8a99f8ab34e1dec186171fc50"
+  },
+  "MNEC.InjectiveTorusArea": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\InjectiveTorusArea.lean",
+    "copy": "MNEC\\InjectiveTorusArea.lean",
+    "sha256": "3070f6a10e831a00221b93b763cd3888b0ed96554c8c446f856464a4b74157eb"
+  },
+  "MNEC.RegularTopologyArea": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\RegularTopologyArea.lean",
+    "copy": "MNEC\\RegularTopologyArea.lean",
+    "sha256": "9abb841fab2906b4ea97bc46282ea612681e7827bbe2e3c764dc43d005d5b01c"
+  },
+  "MNEC.RegularChartedSpace": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\RegularChartedSpace.lean",
+    "copy": "MNEC\\RegularChartedSpace.lean",
+    "sha256": "ed42f65ff19ac8f099ffdeeafb00e5d780cfb90a9f5bb6e55f861e23865520ac"
+  },
+  "MNEC.SlitQuotientSeparation": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\SlitQuotientSeparation.lean",
+    "copy": "MNEC\\SlitQuotientSeparation.lean",
+    "sha256": "af731b7143de1de6a976849428c309dbabe1b1e8dd81553efafc44a04a35a1cc"
+  },
+  "MNEC.CutTorusBoundary": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\CutTorusBoundary.lean",
+    "copy": "MNEC\\CutTorusBoundary.lean",
+    "sha256": "b9667c88aea20e26c7451b7deb3820ed91fd085eb70cc2c2c7cf7351e314a020"
+  },
+  "MNEC.LocalDirectionalArea": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\LocalDirectionalArea.lean",
+    "copy": "MNEC\\LocalDirectionalArea.lean",
+    "sha256": "f484ba42d84cf1ca8c094264f5406980603bb72352dcbfd1679a351e53e544ca"
+  },
+  "MNEC.RegularCountability": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\RegularCountability.lean",
+    "copy": "MNEC\\RegularCountability.lean",
+    "sha256": "82cbdf4c260b426832226e939537f480e260a910de3716ba58495b9304b7409c"
+  },
+  "MNEC.ChartAreaSupport": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\ChartAreaSupport.lean",
+    "copy": "MNEC\\ChartAreaSupport.lean",
+    "sha256": "3d59b31359493f745ec4d6591485af8700f6e22965246827c752317679ca0b78"
+  },
+  "MNEC.NativePartialDirectionalArea": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativePartialDirectionalArea.lean",
+    "copy": "MNEC\\NativePartialDirectionalArea.lean",
+    "sha256": "3b5fcf5899dc7fbe9c6087d03192f7c6dc89392cff0d6e78efd0137aa4d1c1c5"
+  },
+  "MNEC.NativePartialDirectionalFlow": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativePartialDirectionalFlow.lean",
+    "copy": "MNEC\\NativePartialDirectionalFlow.lean",
+    "sha256": "8bea21f9ec65b94e4c31d943b67fd0859c745549488d6efe9bcfe2a6fecdaf91"
+  },
+  "MNEC.NativeDirectionalDynamics": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeDirectionalDynamics.lean",
+    "copy": "MNEC\\NativeDirectionalDynamics.lean",
+    "sha256": "936a277a4f37259af07f39f4ca179cf01a1654ae7dd1c61bb84fbd885a641e0e"
+  },
+  "MNEC.TranslationAtlasCurves": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\TranslationAtlasCurves.lean",
+    "copy": "MNEC\\TranslationAtlasCurves.lean",
+    "sha256": "b93499a58034b10a35bebc06a8a991e799eaca254dd4d057f50edf75f26a74fe"
+  },
+  "MNEC.TranslationAtlasField": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\TranslationAtlasField.lean",
+    "copy": "MNEC\\TranslationAtlasField.lean",
+    "sha256": "ba3a15de4108692574aedcdffb619bfe8adfc21b408abe3ce7df8c85bb452fb6"
+  },
+  "MNEC.FlatChartDerivatives": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\FlatChartDerivatives.lean",
+    "copy": "MNEC\\FlatChartDerivatives.lean",
+    "sha256": "eb8f75d9e59a6494052626e1c27bf0f99ce131ba3cb452bf9852566d19d181fa"
+  },
+  "MNEC.RegularSmoothStructure": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\RegularSmoothStructure.lean",
+    "copy": "MNEC\\RegularSmoothStructure.lean",
+    "sha256": "f8a2be6d03a75e0b46236961a0e1f51bbe5dab534b720b9a1214a04a9ef46597"
+  },
+  "MNEC.RegularTranslationStructure": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\RegularTranslationStructure.lean",
+    "copy": "MNEC\\RegularTranslationStructure.lean",
+    "sha256": "4b0f1d1749d10f9295f05ad55f52d0dfea572a9d033885ad8bf59567a8514b71"
+  },
+  "MNEC.RegularAtlasTransitions": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\RegularAtlasTransitions.lean",
+    "copy": "MNEC\\RegularAtlasTransitions.lean",
+    "sha256": "f5f9dc121eeb26cd59c962877dca3bf38a73178962ddb56a444432f9e4a8575b"
+  },
+  "MNEC.LocalPeriods": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\LocalPeriods.lean",
+    "copy": "MNEC\\LocalPeriods.lean",
+    "sha256": "7e14b1cb9d5fbaeee36c5d46dee484d18e5e19b055a6c77dead8115662beafb7"
+  },
+  "MNEC.MaximalFlowAction": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\MaximalFlowAction.lean",
+    "copy": "MNEC\\MaximalFlowAction.lean",
+    "sha256": "1ee6a204124384198d8787ba6b4a1e1ef6cea83cc1ae07455484d12b6fba7500"
+  },
+  "MNEC.MaximalIntegralCurve": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\MaximalIntegralCurve.lean",
+    "copy": "MNEC\\MaximalIntegralCurve.lean",
+    "sha256": "d654b63490f0f2688e0cf1ef34f8b591b01062a126decb1b501ff8256a190d98"
+  },
+  "MNEC.TranslationJointFlow": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\TranslationJointFlow.lean",
+    "copy": "MNEC\\TranslationJointFlow.lean",
+    "sha256": "82086eb8e59ecde9003c27bc9a3fb4b28196d27a3b8de6cf4dc42755f64dbfb5"
+  },
+  "MNEC.TranslationPartialFlow": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\TranslationPartialFlow.lean",
+    "copy": "MNEC\\TranslationPartialFlow.lean",
+    "sha256": "65d25b2bcf0442007c7b031814b7dd98576ca5625d58b17805be866bafd33346"
+  },
+  "MNEC.TranslationWordCoverage": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\TranslationWordCoverage.lean",
+    "copy": "MNEC\\TranslationWordCoverage.lean",
+    "sha256": "03979b312469ab4d82dcbfa2682c770ce82e333f100acd257c9996e03c482c08"
+  },
+  "MNEC.TranslationFlowWords": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\TranslationFlowWords.lean",
+    "copy": "MNEC\\TranslationFlowWords.lean",
+    "sha256": "24f2179c2036aca95fcab0520f2bc5b92e28e93b2a2dc255cf3489eae55128dd"
+  },
+  "MNEC.TranslationBallCharts": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\TranslationBallCharts.lean",
+    "copy": "MNEC\\TranslationBallCharts.lean",
+    "sha256": "1b2dfa28055c0a26766c9f9aceef49b67e5cfa9b507485ffb3dcc4fd5c7f2644"
+  },
+  "MNEC.DirectionalFlowWords": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\DirectionalFlowWords.lean",
+    "copy": "MNEC\\DirectionalFlowWords.lean",
+    "sha256": "64c990117f1345da3a104d1a2ba5fc5c9491fa003cafdecd7790de05eec72385"
+  },
+  "MNEC.DirectionalBallCharts": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\DirectionalBallCharts.lean",
+    "copy": "MNEC\\DirectionalBallCharts.lean",
+    "sha256": "e6b420684eaa053ee6d174fc986dba7e63d1cd506ff155e4fe2287c7d5007ca5"
+  },
+  "MNEC.LocalDirectionalIntegralCurves": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\LocalDirectionalIntegralCurves.lean",
+    "copy": "MNEC\\LocalDirectionalIntegralCurves.lean",
+    "sha256": "899c25f93d4f62807c3dec6dac4ee8a06d0831f3f20379ca8accdca87e421b76"
+  },
+  "MNEC.LocalDirectionalCurves": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\LocalDirectionalCurves.lean",
+    "copy": "MNEC\\LocalDirectionalCurves.lean",
+    "sha256": "1c3a9f45a4d920a70978911183b7c34960588431168162316a4b7212a1495b5b"
+  },
+  "MNEC.FlatVectorField": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\FlatVectorField.lean",
+    "copy": "MNEC\\FlatVectorField.lean",
+    "sha256": "c92dcddf4463719aa9b4801707e1ee75d299d82cf47db09858c4d8c10e01c4df"
+  },
+  "MNEC.BallTrajectoryDomains": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\BallTrajectoryDomains.lean",
+    "copy": "MNEC\\BallTrajectoryDomains.lean",
+    "sha256": "f81e64fb8e56dbce88d9ec1f7393713c21521d92808cc8cd5ad6504e3efb459c"
+  },
+  "MNEC.DirectionalMaximalCurves": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\DirectionalMaximalCurves.lean",
+    "copy": "MNEC\\DirectionalMaximalCurves.lean",
+    "sha256": "2846d828ea28b4e5dc978b19a191cca787428940dbbce30f6087901b0507663d"
+  },
+  "MNEC.DirectionalCompleteAction": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\DirectionalCompleteAction.lean",
+    "copy": "MNEC\\DirectionalCompleteAction.lean",
+    "sha256": "10c1963da8584fb600304dca54c013db81c41e500556d736a93c8ffe3e9df14e"
+  },
+  "MNEC.TranslationParameterizedWords": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\TranslationParameterizedWords.lean",
+    "copy": "MNEC\\TranslationParameterizedWords.lean",
+    "sha256": "b6a58fc022c3881c7712c9131032dc47dc03a26c5544953173f5ad21d31e07b5"
+  },
+  "MNEC.ParameterizedFlowWords": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\ParameterizedFlowWords.lean",
+    "copy": "MNEC\\ParameterizedFlowWords.lean",
+    "sha256": "480e1329168fe7d53df7de1a2936a28480e8366ffdf3f432124a883165ae0a45"
+  },
+  "MNEC.TranslationFlowDifferentials": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\TranslationFlowDifferentials.lean",
+    "copy": "MNEC\\TranslationFlowDifferentials.lean",
+    "sha256": "a334f43edd15c7935272aa80595ee2bdd92b74cc421a4c04dccb04c03a157fd4"
+  },
+  "MNEC.FlatDerivativeGerms": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\FlatDerivativeGerms.lean",
+    "copy": "MNEC\\FlatDerivativeGerms.lean",
+    "sha256": "1a07ed2f19e4ceb1dfb4bf1d171583f2ae01d29bd1fe3b37f567a08f95815d53"
+  },
+  "MNEC.RemovableTranslationLine": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\RemovableTranslationLine.lean",
+    "copy": "MNEC\\RemovableTranslationLine.lean",
+    "sha256": "3bb1ecbfb12c41ad847281ce95879cb6591cc6faaf6dc5429b0d56a548665a6a"
+  },
+  "MNEC.NativePrimitiveEndpoint": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativePrimitiveEndpoint.lean",
+    "copy": "MNEC\\NativePrimitiveEndpoint.lean",
+    "sha256": "8aff3e871bc657841e5a7d109ac12ebfa3f86bfcab73d0a7bf817cbbca67c39e"
+  },
+  "MNEC.NativePrimitiveTrajectory": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativePrimitiveTrajectory.lean",
+    "copy": "MNEC\\NativePrimitiveTrajectory.lean",
+    "sha256": "671fc88828c480fdee6f43d858d4d140ee07880094ba57fe30a4d4de0ad3fcbe"
+  },
+  "MNEC.NativeTrajectoryZeroLimit": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeTrajectoryZeroLimit.lean",
+    "copy": "MNEC\\NativeTrajectoryZeroLimit.lean",
+    "sha256": "e6922fdfc8bf6bb526cb9d6d303726fdf58c00b31825d82861f541372893d408"
+  },
+  "MNEC.FiniteConcentrationLimit": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\FiniteConcentrationLimit.lean",
+    "copy": "MNEC\\FiniteConcentrationLimit.lean",
+    "sha256": "c24013381b7834ec31d995adb0e2b7f18175b3a129fe0e944be92ab36ceb7e47"
+  },
+  "MNEC.NativeCompactDirectionalContinuation": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeCompactDirectionalContinuation.lean",
+    "copy": "MNEC\\NativeCompactDirectionalContinuation.lean",
+    "sha256": "24e66dd3a5d3b6e88ee0d1210c58a7b77304a7d1d60efdf62647fab26b5ed70f"
+  },
+  "MNEC.NativeEndpointTimes": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeEndpointTimes.lean",
+    "copy": "MNEC\\NativeEndpointTimes.lean",
+    "sha256": "38c1ea25ef5ba63cef51122a814f55bc4038a87089c9f2d6db32d6f4282063cb"
+  },
+  "MNEC.NativeCompleteDirectionalFlow": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeCompleteDirectionalFlow.lean",
+    "copy": "MNEC\\NativeCompleteDirectionalFlow.lean",
+    "sha256": "a0100b7d8181b16a61fb39da32429feffdf81b711fc436713a0f8aea99bbe4e2"
+  },
+  "MNEC.NativeProbabilityArea": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeProbabilityArea.lean",
+    "copy": "MNEC\\NativeProbabilityArea.lean",
+    "sha256": "6fb972c5c4b1347940956c596db1041acaa2762e6b7f90d592ef06c4e646d1a9"
+  },
+  "MNEC.NativeFiniteRegularArea": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeFiniteRegularArea.lean",
+    "copy": "MNEC\\NativeFiniteRegularArea.lean",
+    "sha256": "f8bafc270416accac9f9474dd1f7745d4a81a8d25c22264ad9f272ca21470724"
+  },
+  "MNEC.NativeOriginalChartArea": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeOriginalChartArea.lean",
+    "copy": "MNEC\\NativeOriginalChartArea.lean",
+    "sha256": "09a80688967c561972aa0b83213c3aac9c5143a0cdc909b6472f36883ae02984"
+  },
+  "MNEC.NativePrimitiveJacobian": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativePrimitiveJacobian.lean",
+    "copy": "MNEC\\NativePrimitiveJacobian.lean",
+    "sha256": "b3544db04cb42cd82e26a2f3fea2798e8b6ce5e0927410fcd751eaa6458db758"
+  },
+  "Jacobians.CanonicalForms.CanonicalFormDifferential": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\CanonicalForms\\CanonicalFormDifferential.lean",
+    "copy": "Jacobians\\CanonicalForms\\CanonicalFormDifferential.lean",
+    "sha256": "d1de2ebdac7703976d58c311cedf57b144f42de5e84eb7be162a5895168dd9a1"
+  },
+  "Jacobians.CanonicalForms.SerreOmega0": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\CanonicalForms\\SerreOmega0.lean",
+    "copy": "Jacobians\\CanonicalForms\\SerreOmega0.lean",
+    "sha256": "100856e1035f5c5692a680ef383db575d9b26f4afbdd9220a58faa7c0d3bcb0e"
+  },
+  "Jacobians.Finiteness.CohomologicalRR": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\CohomologicalRR.lean",
+    "copy": "Jacobians\\Finiteness\\CohomologicalRR.lean",
+    "sha256": "b9502b34e25cef6cb37d1a75154d026bc497cd8c639f517bda7a8dbdce1a52ab"
+  },
+  "Jacobians.Finiteness.SkyscraperConeRealization": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\SkyscraperConeRealization.lean",
+    "copy": "Jacobians\\Finiteness\\SkyscraperConeRealization.lean",
+    "sha256": "9d486038a6b4e60cf79aace6d31d8593c88eb105241ba746fd8bcb249726a5be"
+  },
+  "Jacobians.Finiteness.CohomologicalH0Finiteness": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\CohomologicalH0Finiteness.lean",
+    "copy": "Jacobians\\Finiteness\\CohomologicalH0Finiteness.lean",
+    "sha256": "8c0fe14d6e9bc15b7d71cec9597c61ca056b3b38f97dff32e39fab46111a972d"
+  },
+  "Jacobians.Finiteness.CechFinitenessDtwist": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\CechFinitenessDtwist.lean",
+    "copy": "Jacobians\\Finiteness\\CechFinitenessDtwist.lean",
+    "sha256": "0a22a888632620725b747420a56481de29e93fb099deb142835842a2b902c6ac"
+  },
+  "Jacobians.Finiteness.CechFinitenessAssembly": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\CechFinitenessAssembly.lean",
+    "copy": "Jacobians\\Finiteness\\CechFinitenessAssembly.lean",
+    "sha256": "2e92c5ed1e61733521556bb2bf63aa11eabd8ba187fe7abbc7916e066f7aacea"
+  },
+  "Jacobians.Cech.ChartDiskRefinement": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Cech\\ChartDiskRefinement.lean",
+    "copy": "Jacobians\\Cech\\ChartDiskRefinement.lean",
+    "sha256": "2d959773b358066645127558440aa0218fe5038785ac9c933f435470abf1574d"
+  },
+  "Jacobians.Cech.ChartDiskCover": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Cech\\ChartDiskCover.lean",
+    "copy": "Jacobians\\Cech\\ChartDiskCover.lean",
+    "sha256": "c9f48df92e0ffbce0f6d15586615b81af0dbfa85e7790b70a929667221e2ad45"
+  },
+  "Jacobians.Cech.CechComplex": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Cech\\CechComplex.lean",
+    "copy": "Jacobians\\Cech\\CechComplex.lean",
+    "sha256": "471a0fc471cd8ba82f6dc60c449cd7c6afd840bb91c8feb33b4acd3d8137159d"
+  },
+  "Jacobians.Cech.CechSection": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Cech\\CechSection.lean",
+    "copy": "Jacobians\\Cech\\CechSection.lean",
+    "sha256": "3db5380294a1ac67112c3005e455a161153167e197703f60907b06088284036d"
+  },
+  "Jacobians.Meromorphic.LinearSystem": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Meromorphic\\LinearSystem.lean",
+    "copy": "Jacobians\\Meromorphic\\LinearSystem.lean",
+    "sha256": "ad07630360f6a5332b5fe85d2108a9d3d9869391fde221f8647e35d620045a6b"
+  },
+  "Jacobians.Meromorphic.MeromorphicLiouville": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Meromorphic\\MeromorphicLiouville.lean",
+    "copy": "Jacobians\\Meromorphic\\MeromorphicLiouville.lean",
+    "sha256": "83abcc156cdc3069a9dca03a3a4b92a69a0bd9612832a4512bccacfdd610d25a"
+  },
+  "Jacobians.Meromorphic.Abel": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Meromorphic\\Abel.lean",
+    "copy": "Jacobians\\Meromorphic\\Abel.lean",
+    "sha256": "dfb48fae7c5398ac20b256b7047574aa87ab800abb6068ce54031a98287c84a0"
+  },
+  "Jacobians.JacobianConstruction.PeriodLattice": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\JacobianConstruction\\PeriodLattice.lean",
+    "copy": "Jacobians\\JacobianConstruction\\PeriodLattice.lean",
+    "sha256": "90f2a10c5ea3a58774c4d2bd35d4b37b748ba860877aa17c26c226c39066d42c"
+  },
+  "Jacobians.MappingDegree.RegularValueExistsRegUnconditional": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\RegularValueExistsRegUnconditional.lean",
+    "copy": "Jacobians\\MappingDegree\\RegularValueExistsRegUnconditional.lean",
+    "sha256": "59060288b67828c62d7fbf0d6d2ec2cd6f7e093e26bafe04072bd22a9ab7c0a1"
+  },
+  "Jacobians.MappingDegree.CriticalValuesFiniteGeneral": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\CriticalValuesFiniteGeneral.lean",
+    "copy": "Jacobians\\MappingDegree\\CriticalValuesFiniteGeneral.lean",
+    "sha256": "3537f961db60ef0b17e1b2e5e69285cc01e09278cd219ee71f2e08161fd249d4"
+  },
+  "Jacobians.LocalMultiplicity.MeromorphicAt": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\LocalMultiplicity\\MeromorphicAt.lean",
+    "copy": "Jacobians\\LocalMultiplicity\\MeromorphicAt.lean",
+    "sha256": "d123d19b0a36fb1ce8320e951a76885ccb58b672dafaeae9ff2425be4b42b240"
+  },
+  "Jacobians.LocalMultiplicity.AnalyticDerivOrder": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\LocalMultiplicity\\AnalyticDerivOrder.lean",
+    "copy": "Jacobians\\LocalMultiplicity\\AnalyticDerivOrder.lean",
+    "sha256": "395055150ff555676d6b683ff21d671db94d22b57295923985bb7cf09b37e7a5"
+  },
+  "Jacobians.MappingDegree.ClopennessOfLocallyConstDischarge": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\ClopennessOfLocallyConstDischarge.lean",
+    "copy": "Jacobians\\MappingDegree\\ClopennessOfLocallyConstDischarge.lean",
+    "sha256": "aa67c82e499562e5f057c1637d1dd13b3689e582483fdcbaec744c31cec1b06c"
+  },
+  "Jacobians.MappingDegree.ChartOverlapPropagationDischarge": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\ChartOverlapPropagationDischarge.lean",
+    "copy": "Jacobians\\MappingDegree\\ChartOverlapPropagationDischarge.lean",
+    "sha256": "f3ce4aa4f30b3c3fe782bf22415245cb914e28be5588bd3f0d84606d7397ed5d"
+  },
+  "Jacobians.MappingDegree.ChartPullbackNotEventuallyConstDischarge": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\ChartPullbackNotEventuallyConstDischarge.lean",
+    "copy": "Jacobians\\MappingDegree\\ChartPullbackNotEventuallyConstDischarge.lean",
+    "sha256": "7a9c1003691db623e48cad854885ee826d4dae9bf7854bd88cc5e944345fcfaa"
+  },
+  "Jacobians.MappingDegree.ChartBallOffCentreWitnessDischarge": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\ChartBallOffCentreWitnessDischarge.lean",
+    "copy": "Jacobians\\MappingDegree\\ChartBallOffCentreWitnessDischarge.lean",
+    "sha256": "7b4aa9e28e8a3a5af604d9157d23a719d4714df5f74fda8794d5cd420d967d86"
+  },
+  "Jacobians.MappingDegree.PerChartNonConstancyReduction": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\PerChartNonConstancyReduction.lean",
+    "copy": "Jacobians\\MappingDegree\\PerChartNonConstancyReduction.lean",
+    "sha256": "04860a571cac6737e87e354a7621cb13dcf1ab9239948c204598083543786f54"
+  },
+  "Jacobians.MappingDegree.WithinChartWitnessReduction": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\WithinChartWitnessReduction.lean",
+    "copy": "Jacobians\\MappingDegree\\WithinChartWitnessReduction.lean",
+    "sha256": "44163e148fbadcb07f43542fe07f5a5da301c77098f6eb3ce0f5b17ae3a26069"
+  },
+  "Jacobians.MappingDegree.ConnectivityGlobalizationReduction": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\ConnectivityGlobalizationReduction.lean",
+    "copy": "Jacobians\\MappingDegree\\ConnectivityGlobalizationReduction.lean",
+    "sha256": "901bf9ce91ac2d7bb15995e18cbb09b84b98d6a96392813daeb089f956a00e4c"
+  },
+  "Jacobians.MappingDegree.AnalyticContinuationGlobalization": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\AnalyticContinuationGlobalization.lean",
+    "copy": "Jacobians\\MappingDegree\\AnalyticContinuationGlobalization.lean",
+    "sha256": "8b5a0e66abb909d6ee3cc6a94a70d0661db46311feb3291fb5b71f52966335c9"
+  },
+  "Jacobians.MappingDegree.AnalyticFiberDiscrete": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\AnalyticFiberDiscrete.lean",
+    "copy": "Jacobians\\MappingDegree\\AnalyticFiberDiscrete.lean",
+    "sha256": "138df453519d54783a0f30ef4f31bce2caf06f26a5d6787eb66e1e3266e72061"
+  },
+  "Jacobians.MappingDegree.Degree": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\Degree.lean",
+    "copy": "Jacobians\\MappingDegree\\Degree.lean",
+    "sha256": "5a8bd9ca0d4ac46bd6039aeca876183d22a6de9a133e4573201fe6e51f0cf034"
+  },
+  "Jacobians.LocalMultiplicity.LocalMultiplicity": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\LocalMultiplicity\\LocalMultiplicity.lean",
+    "copy": "Jacobians\\LocalMultiplicity\\LocalMultiplicity.lean",
+    "sha256": "ab702b3506e57838f1ee130e36d14e9d21738b0f8d7930a8e474f9ac5d6ba234"
+  },
+  "Jacobians.MappingDegree.FibresFiniteAssembly": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\FibresFiniteAssembly.lean",
+    "copy": "Jacobians\\MappingDegree\\FibresFiniteAssembly.lean",
+    "sha256": "dfc88227221d18a15684216873c29fbd09745d5ab5d117aa81272dcfb8069538"
+  },
+  "Jacobians.MappingDegree.ChartPullbackDataConstruction": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\ChartPullbackDataConstruction.lean",
+    "copy": "Jacobians\\MappingDegree\\ChartPullbackDataConstruction.lean",
+    "sha256": "44d2d5de7852c40cef3bf5b49dc12764281e2e8e9f900b0159a733c5ce27b110"
+  },
+  "Jacobians.Surface.ContMDiffOmegaAnalytic": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Surface\\ContMDiffOmegaAnalytic.lean",
+    "copy": "Jacobians\\Surface\\ContMDiffOmegaAnalytic.lean",
+    "sha256": "278803506285a8029489f48c046f27f9180071ad7706ff08dff0f6b900f1fdc9"
+  },
+  "Jacobians.MappingDegree.CriticalSetDerivBridge": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\CriticalSetDerivBridge.lean",
+    "copy": "Jacobians\\MappingDegree\\CriticalSetDerivBridge.lean",
+    "sha256": "c99b758443f5b7ffc5828111d2ea70e71dfd62fa35bec880c236cedba8788931"
+  },
+  "Jacobians.LocalMultiplicity.AnalyticLocalFactorization": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\LocalMultiplicity\\AnalyticLocalFactorization.lean",
+    "copy": "Jacobians\\LocalMultiplicity\\AnalyticLocalFactorization.lean",
+    "sha256": "99780f46de9733f97cf43540ec400c10cb423c488b20dd537ed5d82534fd0d6d"
+  },
+  "Jacobians.MappingDegree.AnalyticKthRoot": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\AnalyticKthRoot.lean",
+    "copy": "Jacobians\\MappingDegree\\AnalyticKthRoot.lean",
+    "sha256": "c6c762e1ee63adb7aba1019e0387cd7f02aafee6ddea7faeae07e8fb9687d90a"
+  },
+  "Jacobians.MappingDegree.LocalKFoldMultiplicity": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\LocalKFoldMultiplicity.lean",
+    "copy": "Jacobians\\MappingDegree\\LocalKFoldMultiplicity.lean",
+    "sha256": "050ae03f60f8c989ead38151b28037c4dca572d49cd5f2e2abb54fb7dcb04221"
+  },
+  "Jacobians.MappingDegree.LocalMultiplicityInvariance": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\LocalMultiplicityInvariance.lean",
+    "copy": "Jacobians\\MappingDegree\\LocalMultiplicityInvariance.lean",
+    "sha256": "50c17fe4e388a1227e21b5134b842c295d8f200e8b072fa5297efd929a8c173e"
+  },
+  "Jacobians.MappingDegree.CriticalSetDiscrete": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\CriticalSetDiscrete.lean",
+    "copy": "Jacobians\\MappingDegree\\CriticalSetDiscrete.lean",
+    "sha256": "6c442cba671dd042d5bfec143e6ed807c8f0baf08182135222c8389068c9419e"
+  },
+  "Jacobians.MappingDegree.FibresFiniteUnconditional": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\FibresFiniteUnconditional.lean",
+    "copy": "Jacobians\\MappingDegree\\FibresFiniteUnconditional.lean",
+    "sha256": "2f87b29ee3e57c9aea36c34f390b5522dea093ea80e4b9e668f48e3662c9c964"
+  },
+  "Jacobians.Path.SmoothPathCore": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Path\\SmoothPathCore.lean",
+    "copy": "Jacobians\\Path\\SmoothPathCore.lean",
+    "sha256": "66a1b580ecdfe7e1b2aba5417b4f385ad9a3fb61ebaed2aff8262b16cd9e2c88"
+  },
+  "Jacobians.Path.CotangentCoeff": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Path\\CotangentCoeff.lean",
+    "copy": "Jacobians\\Path\\CotangentCoeff.lean",
+    "sha256": "160158bc8845e32813ff8a22e3ef34a6a88824e3569df436e566c61a8b8341c9"
+  },
+  "Jacobians.Path.LineIntegral": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Path\\LineIntegral.lean",
+    "copy": "Jacobians\\Path\\LineIntegral.lean",
+    "sha256": "6b57ba4fd7507ba452232d2a2b7ce861653a9dd4d1b82756795292590e5f0a11"
+  },
+  "Jacobians.Path.SmoothPath": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Path\\SmoothPath.lean",
+    "copy": "Jacobians\\Path\\SmoothPath.lean",
+    "sha256": "55780748919ae8561af35be4ffd95daf649a9c7b06e2665f1a86f05a95064537"
+  },
+  "Jacobians.Surface.ManifoldIFT": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Surface\\ManifoldIFT.lean",
+    "copy": "Jacobians\\Surface\\ManifoldIFT.lean",
+    "sha256": "9460651e8642f96c248487577f90566cca0adf0bf1313a9c12e7088bd929d743"
+  },
+  "Jacobians.Meromorphic.MeromorphicNFRepair": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Meromorphic\\MeromorphicNFRepair.lean",
+    "copy": "Jacobians\\Meromorphic\\MeromorphicNFRepair.lean",
+    "sha256": "3b783ee260de90b7e643e21c70228559d66ce579245df386ebb16fa217a66b7d"
+  },
+  "Jacobians.Cech.CechRefinement": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Cech\\CechRefinement.lean",
+    "copy": "Jacobians\\Cech\\CechRefinement.lean",
+    "sha256": "952a038e60738f0f76663bb0d0385981b83e29f410c002b5d4104e4515cb9c7c"
+  },
+  "Jacobians.Finiteness.CechModelArtificial": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\CechModelArtificial.lean",
+    "copy": "Jacobians\\Finiteness\\CechModelArtificial.lean",
+    "sha256": "a9d6c50a6c9d8e6d1e8e511b98663155b637d6f1179edc0d1f52f69c4ee1c9c0"
+  },
+  "Jacobians.Finiteness.CechModelBase": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\CechModelBase.lean",
+    "copy": "Jacobians\\Finiteness\\CechModelBase.lean",
+    "sha256": "1b584fa7ec0798c00b8dc47a8cba8d8c407467b38f2996745fba0bfa5c50afc0"
+  },
+  "Jacobians.Finiteness.CechFinitenessAbstract": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\CechFinitenessAbstract.lean",
+    "copy": "Jacobians\\Finiteness\\CechFinitenessAbstract.lean",
+    "sha256": "9c9d07337e6f4e721ab63ea7f1e89472344a77be50ee638a164049b96a337100"
+  },
+  "Jacobians.Finiteness.SchwartzFiniteness": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\SchwartzFiniteness.lean",
+    "copy": "Jacobians\\Finiteness\\SchwartzFiniteness.lean",
+    "sha256": "50f883682524e25f26f3e5122ca9071872f7576364ea0cce39ca8232be2ce7cb"
+  },
+  "Jacobians.Finiteness.CechModelBridge": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\CechModelBridge.lean",
+    "copy": "Jacobians\\Finiteness\\CechModelBridge.lean",
+    "sha256": "5c4ab7395f576a2c69feaca2ef7c6c12ef06efed107a07e85a71529e40060626"
+  },
+  "Jacobians.Finiteness.BddHol": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\BddHol.lean",
+    "copy": "Jacobians\\Finiteness\\BddHol.lean",
+    "sha256": "1b4a8c6d9776bc3448f6a7e98406424bef9ee9b0d3f530bf4adc9724c66acd37"
+  },
+  "Jacobians.Finiteness.CechFiniteness": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\CechFiniteness.lean",
+    "copy": "Jacobians\\Finiteness\\CechFiniteness.lean",
+    "sha256": "7095865b1680e2a85d00e79ca3b104cd4d373b18b4cec5250a37b1113834dd7f"
+  },
+  "Jacobians.Finiteness.ChartDiskFinitenessComplete": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\ChartDiskFinitenessComplete.lean",
+    "copy": "Jacobians\\Finiteness\\ChartDiskFinitenessComplete.lean",
+    "sha256": "0567fd634983fc09afa3be673dcfd5a18f439244714ece741eb14f623c3c53bb"
+  },
+  "Jacobians.Finiteness.CechRefinementInjective": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\CechRefinementInjective.lean",
+    "copy": "Jacobians\\Finiteness\\CechRefinementInjective.lean",
+    "sha256": "5d3220caf2dae9dbcebc3b4229336c9973e3d075f4d7bb882981a2734a8e700d"
+  },
+  "Jacobians.Finiteness.CechRefinementLeray": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\CechRefinementLeray.lean",
+    "copy": "Jacobians\\Finiteness\\CechRefinementLeray.lean",
+    "sha256": "b79d9bbefd080cedad83e06c591c4dc6d9089c791933814b416895c8f438f910"
+  },
+  "Jacobians.Cech.CechRefinementHomotopy": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Cech\\CechRefinementHomotopy.lean",
+    "copy": "Jacobians\\Cech\\CechRefinementHomotopy.lean",
+    "sha256": "d33e12c8a0f918eae8b302b4d0fb49f0e1833cba219b65e00a0b9cdac2ee36bb"
+  },
+  "Jacobians.Dbar.CechDiskAcyclic": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Dbar\\CechDiskAcyclic.lean",
+    "copy": "Jacobians\\Dbar\\CechDiskAcyclic.lean",
+    "sha256": "ad5a81915c5ebb52b8289ead66978525d68c3d3d1982b40ba3435d7b5f1cb9c5"
+  },
+  "Jacobians.Cech.CechH0": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Cech\\CechH0.lean",
+    "copy": "Jacobians\\Cech\\CechH0.lean",
+    "sha256": "3854b297218a0631efe7ad6e79eb3bd68b61840446373c1e41b2922d43db4803"
+  },
+  "Jacobians.Dbar.DbarDiskCohomology": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Dbar\\DbarDiskCohomology.lean",
+    "copy": "Jacobians\\Dbar\\DbarDiskCohomology.lean",
+    "sha256": "6ba29158cea4c872c0dbb7b6f03122d4ecc43ef2670a002f657b18a64f5a2352"
+  },
+  "Jacobians.Dbar.DbarLocal": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Dbar\\DbarLocal.lean",
+    "copy": "Jacobians\\Dbar\\DbarLocal.lean",
+    "sha256": "62844f762c3a011c0aeaa607bcd3ff7ad0ee436632e0ab57fbd3820564fcb7d2"
+  },
+  "Jacobians.Dbar.DbarDisk": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Dbar\\DbarDisk.lean",
+    "copy": "Jacobians\\Dbar\\DbarDisk.lean",
+    "sha256": "38e3c9d532eec49e968f546b97360e713691195b864c0f26c1e3a8556df6b712"
+  },
+  "Jacobians.Finiteness.ChartDiskLeray": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\ChartDiskLeray.lean",
+    "copy": "Jacobians\\Finiteness\\ChartDiskLeray.lean",
+    "sha256": "6e648942002b467a27bd17dd473cb571f1f43e103ee0451c66f9746260fca34d"
+  },
+  "Jacobians.Finiteness.ChartDiskFiniteness": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\ChartDiskFiniteness.lean",
+    "copy": "Jacobians\\Finiteness\\ChartDiskFiniteness.lean",
+    "sha256": "524332695406e9659817db4c4f42cf92767b6a1891228b84c5237863f28a4a7c"
+  },
+  "Jacobians.Dbar.DbarOpenDisk": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Dbar\\DbarOpenDisk.lean",
+    "copy": "Jacobians\\Dbar\\DbarOpenDisk.lean",
+    "sha256": "4f3a313bd38d73e95f14a055b43988ae761d7d0e9f43f3ac046553eaf0292cb3"
+  },
+  "Jacobians.DolbeaultComparison.GoodCover": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\DolbeaultComparison\\GoodCover.lean",
+    "copy": "Jacobians\\DolbeaultComparison\\GoodCover.lean",
+    "sha256": "70e436413d1528eb7edb34eec3a6dd207c3709fc8a634b2c26f3f3e9ea5d2812"
+  },
+  "Jacobians.DolbeaultComparison.DolbeaultComparisonEquiv": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\DolbeaultComparison\\DolbeaultComparisonEquiv.lean",
+    "copy": "Jacobians\\DolbeaultComparison\\DolbeaultComparisonEquiv.lean",
+    "sha256": "5e028469d8d98aa6f4a5c96e2ab8f734148a87a1adf19bb11d60f2a1c44df0a5"
+  },
+  "Jacobians.DolbeaultComparison.DolbeaultComparisonProof": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\DolbeaultComparison\\DolbeaultComparisonProof.lean",
+    "copy": "Jacobians\\DolbeaultComparison\\DolbeaultComparisonProof.lean",
+    "sha256": "48c11026c2808e2330f4d36e0dbbf1b0518bd0dc9193987c4b07bb0bb786691f"
+  },
+  "Jacobians.DolbeaultComparison.DolbeaultComparison": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\DolbeaultComparison\\DolbeaultComparison.lean",
+    "copy": "Jacobians\\DolbeaultComparison\\DolbeaultComparison.lean",
+    "sha256": "95c5e024d5d5499162179c04a3f71f5081a09dc58c51e86c28330fd9d46e4581"
+  },
+  "Jacobians.DolbeaultComparison.DolbeaultH01": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\DolbeaultComparison\\DolbeaultH01.lean",
+    "copy": "Jacobians\\DolbeaultComparison\\DolbeaultH01.lean",
+    "sha256": "bd4c1c2c9ff73e1c7ba5b7846fb4c59c3de240d83d2f24d7d28aa37e2d01e540"
+  },
+  "Jacobians.Dbar.RealForms": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Dbar\\RealForms.lean",
+    "copy": "Jacobians\\Dbar\\RealForms.lean",
+    "sha256": "57bb3a2f9e9216467d8ed56ac569ccdd4187e69a287ab0e58e93f93da79dd41f"
+  },
+  "Jacobians.Surface.RealManifold": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Surface\\RealManifold.lean",
+    "copy": "Jacobians\\Surface\\RealManifold.lean",
+    "sha256": "6f59173a1d7383b058968911eb0fba9499227e97886c98d6977d5f18d7c23b37"
+  },
+  "Jacobians.DolbeaultComparison.DolbeaultComparisonInverse": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\DolbeaultComparison\\DolbeaultComparisonInverse.lean",
+    "copy": "Jacobians\\DolbeaultComparison\\DolbeaultComparisonInverse.lean",
+    "sha256": "35c485a2d167c294a13bdd0e8df647fbba6f56b7e3a6a83936f351751b5824f0"
+  },
+  "Jacobians.Dbar.HoloRep": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Dbar\\HoloRep.lean",
+    "copy": "Jacobians\\Dbar\\HoloRep.lean",
+    "sha256": "646b090cc5b0f8a4af0a62b354895ef3ccdaaa3ecc729e31a6bce65ffba45244"
+  },
+  "Jacobians.Finiteness.CechModelHolomorphic": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\CechModelHolomorphic.lean",
+    "copy": "Jacobians\\Finiteness\\CechModelHolomorphic.lean",
+    "sha256": "e654498c7cf6a1c349a15b317134f9f70754b4ec8775855e5f4f59ec87fc37b3"
+  },
+  "Jacobians.Finiteness.CechModelManifold": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\CechModelManifold.lean",
+    "copy": "Jacobians\\Finiteness\\CechModelManifold.lean",
+    "sha256": "c6536179c18e39a2ab11588a40d1f5ec59a345d89c5cf5db2a45fe3f426f5b86"
+  },
+  "Jacobians.Dbar.CechDiskAcyclicAssembly": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Dbar\\CechDiskAcyclicAssembly.lean",
+    "copy": "Jacobians\\Dbar\\CechDiskAcyclicAssembly.lean",
+    "sha256": "41803cb1fe88a4037e004c40d4016850aacfdd3340d657c1412e34815236a31c"
+  },
+  "Jacobians.Dbar.DiskAcyclicCore": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Dbar\\DiskAcyclicCore.lean",
+    "copy": "Jacobians\\Dbar\\DiskAcyclicCore.lean",
+    "sha256": "a247cbb4af4f2680fb299eaa36ba6832e2141c2a8918a6836a49d410933b6ff0"
+  },
+  "Jacobians.Finiteness.SkyscraperArrow": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\SkyscraperArrow.lean",
+    "copy": "Jacobians\\Finiteness\\SkyscraperArrow.lean",
+    "sha256": "5bd07805e00c8a9040840d605850c147764531164c699304f9ea85b56184ba99"
+  },
+  "Jacobians.DolbeaultComparison.LocalRealization": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\DolbeaultComparison\\LocalRealization.lean",
+    "copy": "Jacobians\\DolbeaultComparison\\LocalRealization.lean",
+    "sha256": "40826c1218aeaaa9d5524f60548d418e6f4ce799b696c6864dcbf3774bbd972a"
+  },
+  "Jacobians.Finiteness.SkyscraperLESBase": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\SkyscraperLESBase.lean",
+    "copy": "Jacobians\\Finiteness\\SkyscraperLESBase.lean",
+    "sha256": "7638d07baf3779111891e09420570c6e6da8e4dc1a7bf8a591a7ba6bcba0c922"
+  },
+  "Jacobians.Finiteness.SkyscraperAssembly": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\SkyscraperAssembly.lean",
+    "copy": "Jacobians\\Finiteness\\SkyscraperAssembly.lean",
+    "sha256": "ac3ecabf9a90b7f0f6c3acb813ae8d2789b85c6aeb3cba6f9ede5da461267b09"
+  },
+  "Jacobians.Finiteness.SkyscraperSnake": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\SkyscraperSnake.lean",
+    "copy": "Jacobians\\Finiteness\\SkyscraperSnake.lean",
+    "sha256": "23bc6395f3311709d7eb226a6accac90c5b9d693bdbc7b241ef155d1fd3041d2"
+  },
+  "Jacobians.Finiteness.CechFinitenessWiring": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\CechFinitenessWiring.lean",
+    "copy": "Jacobians\\Finiteness\\CechFinitenessWiring.lean",
+    "sha256": "136280f9390327aff71fcda0fa0fad326dd63cba42fdfb81d3966141f6c0607c"
+  },
+  "Jacobians.Finiteness.SkyscraperProductWitness": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\Finiteness\\SkyscraperProductWitness.lean",
+    "copy": "Jacobians\\Finiteness\\SkyscraperProductWitness.lean",
+    "sha256": "10d4768555eb0df8ce298fa0d99a5a6d853d627cb20990c0cc635adfd0fd3350"
+  },
+  "Jacobians.DolbeaultComparison.LerayCoverExists": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\DolbeaultComparison\\LerayCoverExists.lean",
+    "copy": "Jacobians\\DolbeaultComparison\\LerayCoverExists.lean",
+    "sha256": "9cdc0b69eaaeb9cc45b0f489c6366bc0c0b731f668052545b255f921a0a030cd"
+  },
+  "Jacobians.CanonicalForms.CanonicalFormIso": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\CanonicalForms\\CanonicalFormIso.lean",
+    "copy": "Jacobians\\CanonicalForms\\CanonicalFormIso.lean",
+    "sha256": "8e29fc66903f2a4f801ef98837863bf422cc1ce8df4a70b5b2c4955f696ba2d9"
+  },
+  "Jacobians.CanonicalForms.MeromorphicOneFormSystem": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\CanonicalForms\\MeromorphicOneFormSystem.lean",
+    "copy": "Jacobians\\CanonicalForms\\MeromorphicOneFormSystem.lean",
+    "sha256": "6e28ad8ce18f520af8614b933d6bbbfb031b23dff15c7fb074585ce2592d278c"
+  },
+  "Jacobians.ResidueCalculus.FormCoeff": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\ResidueCalculus\\FormCoeff.lean",
+    "copy": "Jacobians\\ResidueCalculus\\FormCoeff.lean",
+    "sha256": "1f54a0a5d67d78319016c7ad09c29e8b3f994538b20d594da86b4600c355e3be"
+  },
+  "Jacobians.ResidueCalculus.Residue": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\ResidueCalculus\\Residue.lean",
+    "copy": "Jacobians\\ResidueCalculus\\Residue.lean",
+    "sha256": "0a5f085e76b42dfcbe2fc2e651543a7b7e61277ab943b43e27a437902aa3bd9d"
+  },
+  "MNEC.OrientedLatticeRebasing": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\OrientedLatticeRebasing.lean",
+    "copy": "MNEC\\OrientedLatticeRebasing.lean",
+    "sha256": "b0dbebd640e1b49e84c104bfedbf631dea214f63e07a4d1e8d7e01b899167b18"
+  },
+  "MNEC.SurfaceRebasingArea": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\SurfaceRebasingArea.lean",
+    "copy": "MNEC\\SurfaceRebasingArea.lean",
+    "sha256": "e860d3a7d832d9c702c90a8172878b010e0a57e4dc5a3286ada26e8e2766cbec"
+  },
+  "MNEC.SurfaceLatticeRebasing": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\SurfaceLatticeRebasing.lean",
+    "copy": "MNEC\\SurfaceLatticeRebasing.lean",
+    "sha256": "10d42463c890f9f75c8ffd64d10a55d23cae9324ea208b67a24471d53bfa6791"
+  },
+  "MNEC.SlitSurfaceCongruence": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\SlitSurfaceCongruence.lean",
+    "copy": "MNEC\\SlitSurfaceCongruence.lean",
+    "sha256": "4fac5ebbc35176614d4f3db03861b27396e5f0a84b8d0a0b2789cb8b1854a38a"
+  },
+  "MNEC.CutLatticeRebasing": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\CutLatticeRebasing.lean",
+    "copy": "MNEC\\CutLatticeRebasing.lean",
+    "sha256": "122935e6dccc7604e6353d76a8d9f5796188c09a82a9094b703ebb0051169bad"
+  },
+  "MNEC.PrimitiveLatticeRebasing": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\PrimitiveLatticeRebasing.lean",
+    "copy": "MNEC\\PrimitiveLatticeRebasing.lean",
+    "sha256": "32bcebf215e0d3f725573fe85584d6e33908cb3c247ce2ba392ffe05f84ed236"
+  },
+  "MNEC.RebasedLatticeArea": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\RebasedLatticeArea.lean",
+    "copy": "MNEC\\RebasedLatticeArea.lean",
+    "sha256": "1f294a5b0d2485d7bd9a4d96ef531f30a9b155d37923c99ed275fdaf47d31736"
+  },
+  "MNEC.TorusFlow": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\TorusFlow.lean",
+    "copy": "MNEC\\TorusFlow.lean",
+    "sha256": "287885bad428882a05b3adc6e2ef0ccd6bc41fa674ddbe71082e2ed981394723"
+  },
+  "MNEC.Twists": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\Twists.lean",
+    "copy": "MNEC\\Twists.lean",
+    "sha256": "ece7d36825deca02f27add434e1f2b902fde349fce8f411844ebc919818f1e57"
+  },
+  "MNEC.LatticeDirections": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\LatticeDirections.lean",
+    "copy": "MNEC\\LatticeDirections.lean",
+    "sha256": "a178c22da33a3a789cb3463c3d1c5d288921cfa72f1b72521991e6a35f345a47"
+  },
+  "MNEC.IrrationalChildren": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\IrrationalChildren.lean",
+    "copy": "MNEC\\IrrationalChildren.lean",
+    "sha256": "5541f5ad97d8bae930fee54dcc00b78c13155fc92bf63a7f9454158b7615ec68"
+  },
+  "MNEC.NativePhysicalArea": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativePhysicalArea.lean",
+    "copy": "MNEC\\NativePhysicalArea.lean",
+    "sha256": "4df117cd8c3fbc776c737354a7b1829353fad065345c54615b5063db2dba789a"
+  },
+  "MNEC.NativeCompleteDirectionalArea": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeCompleteDirectionalArea.lean",
+    "copy": "MNEC\\NativeCompleteDirectionalArea.lean",
+    "sha256": "4d990a3a9a09411ea7e4148ffd4cf484c52ef981f29cdf3e57bc415b89e31dad"
+  },
+  "MNEC.TranslationFlowConjugacy": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\TranslationFlowConjugacy.lean",
+    "copy": "MNEC\\TranslationFlowConjugacy.lean",
+    "sha256": "139e14c02acada1c9bca48b2c2c4177f1f50f85a368c2b90c3cd3f5bb8a4f30e"
+  },
+  "Jacobians.MappingDegree.PathConnectedComplFinite": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\PathConnectedComplFinite.lean",
+    "copy": "Jacobians\\MappingDegree\\PathConnectedComplFinite.lean",
+    "sha256": "83fabeff190a8a468eb0752c118208d04057e0122c96b21ab895e91b87cb7f81"
+  },
+  "Jacobians.MappingDegree.ChartLocalDetour": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\ChartLocalDetour.lean",
+    "copy": "Jacobians\\MappingDegree\\ChartLocalDetour.lean",
+    "sha256": "edf4bb4025148faa21621f4219cf2a5d64980de34f16e63efb2d2d9535a3d519"
+  },
+  "Jacobians.MappingDegree.ChartOverlapAvoidanceFull": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\ChartOverlapAvoidanceFull.lean",
+    "copy": "Jacobians\\MappingDegree\\ChartOverlapAvoidanceFull.lean",
+    "sha256": "e2611804bffad1d9df0e54a11f85f5164c00f4a419d91066b15e8a3079b77ba8"
+  },
+  "Jacobians.MappingDegree.ChartRestrictionToBall": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\ChartRestrictionToBall.lean",
+    "copy": "Jacobians\\MappingDegree\\ChartRestrictionToBall.lean",
+    "sha256": "a0335d2176c8a3aff5ca8af864888df5311f044f4aed6b6ddbce983b34b145f4"
+  },
+  "Jacobians.MappingDegree.ChartedSpaceLocPathConnected": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\ChartedSpaceLocPathConnected.lean",
+    "copy": "Jacobians\\MappingDegree\\ChartedSpaceLocPathConnected.lean",
+    "sha256": "0f00873d37546c31b4f7089ba9191d7679fac47ad96889a6fa8a61785063193f"
+  },
+  "Jacobians.MappingDegree.ConnectedManifoldPathConnected": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\ConnectedManifoldPathConnected.lean",
+    "copy": "Jacobians\\MappingDegree\\ConnectedManifoldPathConnected.lean",
+    "sha256": "022072e21812a3568ef2b57b389bde5027a679b6c323b987054e601d65ad9bff"
+  },
+  "Jacobians.MappingDegree.IsPathConnectedBallMinusCountable": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\IsPathConnectedBallMinusCountable.lean",
+    "copy": "Jacobians\\MappingDegree\\IsPathConnectedBallMinusCountable.lean",
+    "sha256": "0fed5e3b8bb18f0ee57760fa4f3e8f5368f9c797f9c8e8ade9287688a3c4f91f"
+  },
+  "Jacobians.MappingDegree.PathSubdivisionByBallCharts": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\Jacobians\\MappingDegree\\PathSubdivisionByBallCharts.lean",
+    "copy": "Jacobians\\MappingDegree\\PathSubdivisionByBallCharts.lean",
+    "sha256": "e68de1876f73415184c9dfafd1882cb0c41334a46ded0537adfee766e71a2858"
+  },
+  "MNEC.TranslationLinearChartDerivatives": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\TranslationLinearChartDerivatives.lean",
+    "copy": "MNEC\\TranslationLinearChartDerivatives.lean",
+    "sha256": "4275ad77cedcd6f17e10921240fb1e65a6e6a75fde183cf852e10a46d0b9452c"
+  },
+  "MNEC.TranslationLinearFlowConjugacy": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\TranslationLinearFlowConjugacy.lean",
+    "copy": "MNEC\\TranslationLinearFlowConjugacy.lean",
+    "sha256": "079aea53a188b2ed65e50cd5a529491da8ace3033fb24af37099156f0245d96d"
+  },
+  "MNEC.NativeVelocityTimeScaling": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeVelocityTimeScaling.lean",
+    "copy": "MNEC\\NativeVelocityTimeScaling.lean",
+    "sha256": "8a897c0dcf6e537a90bfa40130ea5720137b168caba0357f92949dbdc8cc82dc"
+  },
+  "MNEC.NativeDifferentialEquivCompletion": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeDifferentialEquivCompletion.lean",
+    "copy": "MNEC\\NativeDifferentialEquivCompletion.lean",
+    "sha256": "0b7b725a3c6bef92c204bcc628dcdfc310a59fc6d5dd8a147a2b95d4a864b66c"
+  },
+  "MNEC.NativeRemovableMaps": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeRemovableMaps.lean",
+    "copy": "MNEC\\NativeRemovableMaps.lean",
+    "sha256": "889c82189d17ee428bb176ea63dd4f1f1424309752661c0c0eb2623330c59fa0"
+  },
+  "MNEC.NativeDifferentialEquiv": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeDifferentialEquiv.lean",
+    "copy": "MNEC\\NativeDifferentialEquiv.lean",
+    "sha256": "b923e140046861f94f1158a860637331e11954d544dfbcb7a1551bb1baf0120f"
+  },
+  "MNEC.NativePrimitiveInverse": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativePrimitiveInverse.lean",
+    "copy": "MNEC\\NativePrimitiveInverse.lean",
+    "sha256": "9e79d73facde6797a66676a940475391bba3a48f79d59beaa0ae6f9dbe70031e"
+  },
+  "MNEC.NativeDifferentialEquivFlatness": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeDifferentialEquivFlatness.lean",
+    "copy": "MNEC\\NativeDifferentialEquivFlatness.lean",
+    "sha256": "3d9dff5d26731a48c97205f860ff0e42d5d7e4a4d0287c944c85fc2d9eca142d"
+  },
+  "MNEC.NativeDifferentialEquivArea": {
+    "source": "C:\\Users\\singl\\Documents\\Codex\\2026-10-30\\i\\outputs\\MNEC\\MNEC\\NativeDifferentialEquivArea.lean",
+    "copy": "MNEC\\NativeDifferentialEquivArea.lean",
+    "sha256": "0c8138147d82192227345cdb26560024dc667219cf52f47bc8878399eb4ddfbf"
+  }
+}

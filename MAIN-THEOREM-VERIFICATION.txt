@@ -1,0 +1,30 @@
+Theorem 1 (Compact branch configurations): VERIFIED
+
+Exact target: VeechDichotomy.PaperStatement.MainClaim
+Proof: VeechDichotomy.PaperMainTheorem.main
+Orbit-closure version: VeechDichotomy.PaperMainTheorem.of_orbitClosure
+
+The supplied theorem assumes a compact genus-at-least-two Veech base,
+a connected finite translation cover, and a compact affine-invariant
+set of distinct ordered branch configurations containing the actual
+branch tuple. Its conclusion is unique ergodicity of every minimal
+direction of the covering surface, for the actual nonsingular flow.
+CheckMainTheorem.lean rechecks both the exact target proposition and
+this direct tuple/set statement, with no recurrence or geometric oracle.
+
+Evidence:
+- Complete root library build passed (verification/build.log).
+- Exact main proposition and direct Theorem 1 gates passed
+  (verification/main-theorem.log); main and cusp theorem axioms printed.
+- All 10629 project declarations passed transitive axiom audit,
+  including the exact main proof (verification/axiom-audit.log).
+- Only propext, Classical.choice and Quot.sound are allowed.
+- No added mathematical axiom, sorryAx or native-evaluation trust axiom
+  occurs in any audited project's transitive proof dependencies.
+- All 844 delivered source modules belong to the checked
+  root import closure; 222 reused modules retain their hashes.
+- Adapted-source provenance and original paper TeX/PDF hashes verified.
+
+Lean 4.35.0; mathlib 56a005855ea17e0b0958f73ec801ae140b0a1679.
+Replay from the project directory: ./Verify.ps1
+Dependencies use the project-local .lake/packages directory.

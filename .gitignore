@@ -1,0 +1,8 @@
+.lake/
+*.olean
+*.ilean
+*.trace
+*.tex
+*.pdf
+*.zip
+.DS_Store
