@@ -28,7 +28,7 @@ are also proved.
 The formal reduction begins with a dense complete orbit on the base,
 obtained by projecting a minimal direction on the cover. Its contracting
 Teichmüller ray is considered in the right quotient
-$\operatorname{SL}(2,\mathbb R)/\Gamma$, where $\Gamma$ is the derivative group.
+$\mathrm{SL}(2,\mathbb R)/\Gamma$, where $\Gamma$ is the derivative group.
 
 The lattice hypothesis yields a finite-area Dirichlet region. The geometric
 development proves finiteness of its corners and ideal endpoints, constructs

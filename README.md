@@ -18,13 +18,13 @@ cover, with $\eta=\pi^*\omega$. Write $\mathbf b$ for the ordered tuple of
 distinct branch values of $\pi$.
 
 Suppose that $\mathbf b$ belongs to a compact
-$\operatorname{Aff}^+(X,\omega)$-invariant set
+$\mathrm{Aff}^+(X,\omega)$-invariant set
 
 $$
-F\subset\operatorname{Conf}_m(X).
+F\subset\mathrm{Conf}_m(X).
 $$
 
-Here $\operatorname{Conf}_m(X)$ is the space of ordered tuples of $m$
+Here $\mathrm{Conf}_m(X)$ is the space of ordered tuples of $m$
 distinct points of $X$.
 
 Then every minimal direction on $Y$ is uniquely ergodic.
