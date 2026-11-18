@@ -1,7 +1,7 @@
 # Veech dichotomy for branched covers
 
 This repository formalizes the main theorem of Haoran Hu's paper,
-*Veech dichotomy for specific covering surface over Veech surface*, in Lean.
+*Veech dichotomy for specific covering surface over Veech surface* ([arXiv:2611.19243](https://arxiv.org/abs/2611.19243)), in Lean.
 It gives a sufficient condition for a finite translation cover of a Veech
 surface to have a uniquely ergodic flow in every minimal direction.
 
